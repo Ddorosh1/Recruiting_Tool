@@ -1,0 +1,27 @@
+* {
+    border: 1px solid black;
+    min-width: max-content;
+}
+
+.content {
+    padding: 4rem;
+}
+
+.positions,
+.schedule {
+    display: inline-flex;
+    min-width: max-content;
+    padding: 2rem;
+}
+
+li {
+    display: block;
+}
+
+.data {
+    padding: 1rem;
+}
+
+nav {
+    padding: 2rem;
+}
