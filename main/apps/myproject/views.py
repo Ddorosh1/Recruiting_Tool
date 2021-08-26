@@ -9,3 +9,6 @@ def dashboard(request):
 
 def positions(request):
     return render(request, 'myproject/positions.html')
+
+def johnsform(request):
+    return render(request, 'myproject/johnsform.html')
